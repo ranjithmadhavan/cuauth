@@ -1,0 +1,8 @@
+{
+  "sub": "hs3396@columbia.edu",
+  "https://api.columbia.edu/claim/group": "sus_system_admin sds_superusers sts_coursecatalog-users sds_advisor-admin sus_coursecatalog-users sds_cm-users sus_courseproposal-reviewers sds_registrar_admins sus_courseproposal-users sts_registrar_admins sds_system_admin sts_classschedule-users sts_superusers sus_superusers sus_classschedule-admin sts_classschedule-admin sus_courseproposal-admin sts_courseproposal-approvers sds_courseproposal-approvers sts_system_admin sus_classschedule-users sds_coursecatalog-admin sts_courseproposal-reviewers sus_courseinventory-admin sds_courseproposal-reviewers sus_coursecatalog-admin sus_cm-users sds_classschedule-admin sts_basic sds_coursecatalog-users sts_courseproposal-admin sds_basic sts_da-users sts_debug sus_courseproposal-approvers sts_cm-users sts_coursecatalog-admin sds_da-users sus_da-users sds_courseproposal-users sus_registrar_admins sds_courseproposal-admin sds_classschedule-users sts_courseinventory-admin sds_advisor sts_courseproposal-users sds_courseinventory-admin",
+  "name": "Harsh Singh",
+  "given_name": "Harsh",
+  "family_name": "Singh",
+  "email": "hs3396@columbia.edu"
+}
